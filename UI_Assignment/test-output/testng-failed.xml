@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestCases.TestCases_001">
+        <methods>
+          <include name="VerifyQuestion2_And_Select"/>
+          <include name="SelectToolAndVerify"/>
+          <include name="openURL"/>
+          <include name="checkPreviouAnswer_1AndClickNext"/>
+          <include name="VerifyQuestion1_And_Select"/>
+          <include name="tearDown"/>
+          <include name="VerifyQuestion3_And_Select"/>
+        </methods>
+      </class> <!-- TestCases.TestCases_001 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

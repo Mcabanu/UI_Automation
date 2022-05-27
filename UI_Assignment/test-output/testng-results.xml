@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30104" started-at="2022-05-25T10:03:19Z" finished-at="2022-05-25T10:03:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30104" started-at="2022-05-25T10:03:19Z" finished-at="2022-05-25T10:03:49Z">
+      <class name="TestCases.TestCases_001">
+        <test-method status="PASS" signature="openURL()[pri:0, instance:TestCases.TestCases_001@acaea5]" name="openURL" is-config="true" duration-ms="10929" started-at="2022-05-25T14:03:19Z" finished-at="2022-05-25T14:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="SelectLanguage()[pri:1, instance:TestCases.TestCases_001@acaea5]" name="SelectLanguage" duration-ms="6953" started-at="2022-05-25T14:03:30Z" finished-at="2022-05-25T14:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectLanguage -->
+        <test-method status="PASS" signature="SeletBussinesTypeAndVerify()[pri:2, instance:TestCases.TestCases_001@acaea5]" name="SeletBussinesTypeAndVerify" duration-ms="1785" started-at="2022-05-25T14:03:37Z" finished-at="2022-05-25T14:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeletBussinesTypeAndVerify -->
+        <test-method status="PASS" signature="SelectToolAndVerify()[pri:3, instance:TestCases.TestCases_001@acaea5]" name="SelectToolAndVerify" duration-ms="3238" started-at="2022-05-25T14:03:38Z" finished-at="2022-05-25T14:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectToolAndVerify -->
+        <test-method status="PASS" signature="VerifyQuestion1_And_Select()[pri:4, instance:TestCases.TestCases_001@acaea5]" name="VerifyQuestion1_And_Select" duration-ms="1840" started-at="2022-05-25T14:03:42Z" finished-at="2022-05-25T14:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyQuestion1_And_Select -->
+        <test-method status="PASS" signature="VerifyQuestion2_And_Select()[pri:5, instance:TestCases.TestCases_001@acaea5]" name="VerifyQuestion2_And_Select" duration-ms="294" started-at="2022-05-25T14:03:43Z" finished-at="2022-05-25T14:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyQuestion2_And_Select -->
+        <test-method status="PASS" signature="checkPreviouAnswer_1AndClickNext()[pri:6, instance:TestCases.TestCases_001@acaea5]" name="checkPreviouAnswer_1AndClickNext" duration-ms="742" started-at="2022-05-25T14:03:44Z" finished-at="2022-05-25T14:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPreviouAnswer_1AndClickNext -->
+        <test-method status="PASS" signature="VerifyQuestion3_And_Select()[pri:7, instance:TestCases.TestCases_001@acaea5]" name="VerifyQuestion3_And_Select" duration-ms="347" started-at="2022-05-25T14:03:44Z" finished-at="2022-05-25T14:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyQuestion3_And_Select -->
+        <test-method status="PASS" signature="checkPreviouAnswer_1_2_AndClickNext()[pri:8, instance:TestCases.TestCases_001@acaea5]" name="checkPreviouAnswer_1_2_AndClickNext" duration-ms="2601" started-at="2022-05-25T14:03:45Z" finished-at="2022-05-25T14:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPreviouAnswer_1_2_AndClickNext -->
+        <test-method status="PASS" signature="verifyOfLoginpage()[pri:9, instance:TestCases.TestCases_001@acaea5]" name="verifyOfLoginpage" duration-ms="354" started-at="2022-05-25T14:03:47Z" finished-at="2022-05-25T14:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOfLoginpage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.TestCases_001@acaea5]" name="tearDown" is-config="true" duration-ms="925" started-at="2022-05-25T14:03:48Z" finished-at="2022-05-25T14:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TestCases_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
